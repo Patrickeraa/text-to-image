@@ -68,7 +68,7 @@ The last two lines of code can be repeated changing the prompt and file names to
 ### Fine-tune Results
 The resulting images will be saved in the same folder, this is a example of how the images can look like:
 
-![alt text](example_image.png)
+![alt text](examples/example_image.png)
 
 ## Using Custom Datasets
 
