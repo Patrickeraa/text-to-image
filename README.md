@@ -1,5 +1,4 @@
-# Text-to-Image Stable Diffusion Custom Training
-
+# Text-to-Image Stable Diffusion with Diffusers 
 This tutorial is a simple and straightfoward way of training a custom Stable Difusion text-to-image model using the Diffusers repository by Hugging Face. It shows how to proper start the container, setup the ambient and get ready to use your own custom dataset to generate images.
 
 ## Container
